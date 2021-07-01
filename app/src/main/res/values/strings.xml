@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdapterPersonalizat2</string>
+    <string name="salveaza">Salveaza</string>
+    <string name="nume_agent_vanzari">Nume agent vanzari</string>
+    <string name="oras">Oras</string>
+    <string name="procent_marfa_vanduta">Procent marfa vanduta</string>
+    <string name="error1">Adauga nume agent!</string>
+    <string name="error2">Adauga oras!</string>
+</resources>
